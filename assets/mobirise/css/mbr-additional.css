@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -654,13 +654,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 .form-control,
 .form-control:focus {
@@ -1766,6 +1766,19 @@ body {
   padding-bottom: 0px;
   background-image: url("../../../assets/images/-2018-09-18-10.39.24-519x427.png");
 }
+.cid-r58y65jhy7 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #149dcc;
+}
+.cid-r58y65jhy7 .mbr-text,
+.cid-r58y65jhy7 blockquote {
+  color: #767676;
+}
+.cid-r58y65jhy7 .mbr-text {
+  color: #ffffff;
+  text-align: center;
+}
 .cid-r44wIWl7vX .google-map {
   height: 25rem;
   position: relative;
@@ -1802,6 +1815,19 @@ body {
 }
 .cid-r44lw6Ecmt H2 {
   color: #ffffff;
+}
+.cid-r58Aymu8tx {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #149dcc;
+}
+.cid-r58Aymu8tx .mbr-text,
+.cid-r58Aymu8tx blockquote {
+  color: #767676;
+}
+.cid-r58Aymu8tx .mbr-text {
+  color: #ffffff;
+  text-align: center;
 }
 .cid-r44mBsd3dY {
   padding-top: 15px;
